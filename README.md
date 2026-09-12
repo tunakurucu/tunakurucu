@@ -2,6 +2,8 @@
 
 I'm a software engineer based in Charlotte, North Carolina. I graduated from Tennessee State University in May 2026 with a 4.0 GPA in Computer Science, a Data Science concentration, and a Mathematics minor.
 
+I am originally from İzmir, Türkiye. I came to the United States at 17 with college basketball as the plan. When that path changed, I found a new direction in computer science and started putting the same energy into research, hackathons, and products people could use.
+
 I work as a Software Engineer at Bank of America. Outside of work, I build products, work on applied machine learning research, and join hackathons when the problem is worth solving.
 
 ## Selected work
