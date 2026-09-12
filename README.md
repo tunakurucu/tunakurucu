@@ -20,7 +20,7 @@ A TreeHacks 2026 project combining an ESP32 sensing device with a web platform. 
 
 ### [AI News](https://github.com/tunakurucu/ai-news-system) and [Made3D](https://github.com/tunakurucu/Made3D)
 
-These projects were originally created by [mithdreamer](https://github.com/mithdreamer). I joined later to help make them functional and production-ready through API integrations, AI features, reliability work, and full website redesigns.
+These projects were originally created by [mithdreamer](https://github.com/mithdreamer). I joined later to help make them more functional and reliable through API integrations, AI features, testing, and full website redesigns.
 
 ### Ambient Connection
 
