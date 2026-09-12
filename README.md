@@ -1,8 +1,8 @@
-# Hi, I'm Tuna
+# Hi, I'm Tuna Kurucu
 
 I'm a technical builder based in Charlotte, North Carolina. I build products, applied machine learning systems, and software for real businesses.
 
-I moved from İzmir, Türkiye to the U.S. for college, originally chasing the goal of playing college basketball. When that path changed, I redirected the same competitiveness into computer science and building. I graduated from Tennessee State University in 2026 with a 4.0 GPA in Computer Science, a Data Science concentration, and a Mathematics minor. I now work as a software engineer at Bank of America.
+I moved from İzmir, Türkiye to the U.S. for college, originally chasing the goal of playing college basketball. When that path changed, I redirected the same competitiveness into computer science and building. I graduated from Tennessee State University with a 4.0 GPA in Computer Science, a Data Science concentration, and a Mathematics minor. I now work as a software engineer at Bank of America.
 
 Currently building a **vertical AI company** with a 20-year domain expert in an industry where critical workflows still run manually.
 
@@ -30,7 +30,7 @@ A private iOS project I started while learning native Apple development, built w
 
 ## Other work
 
-I previously co-founded WAVE, a college-events startup, working across product, frontend, and growth.
+I previously co-founded WAVE, a college-events startup, working across product, frontend, and growth. Raised pre-seed.
 
 I also contributed to [AI News](https://github.com/tunakurucu/ai-news-system) and [Made3D](https://github.com/tunakurucu/Made3D), originally created by [mithdreamer](https://github.com/mithdreamer), working on API integrations, AI features, testing, reliability, and frontend redesigns.
 
