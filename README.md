@@ -1,10 +1,10 @@
 # Hi, I'm Tuna Kurucu
 
-I'm a technical builder based in Charlotte, North Carolina. I build products, applied machine learning systems, and software for real businesses.
+I'm a technical builder based in Charlotte, North Carolina.
 
-I moved from İzmir, Türkiye to the U.S. for college, originally chasing the goal of playing college basketball. When that path changed, I redirected the same competitiveness into computer science and building. I graduated from Tennessee State University with a 4.0 GPA in Computer Science, a Data Science concentration, and a Mathematics minor. I now work as a software engineer at Bank of America.
+Currently building a **vertical AI company with a 20-year domain expert** in an industry where critical workflows still run manually.
 
-Currently building a **vertical AI company** with a 20-year domain expert in an industry where critical workflows still run manually.
+I moved from İzmir, Türkiye to the U.S. by myself at 17, with the goal of playing college basketball. When that path changed, I put the same competitiveness into computer science and building products. I graduated from Tennessee State University in 2026 with a 4.0 GPA in Computer Science, a Data Science concentration, and a Mathematics minor. I now work as a software engineer at Bank of America.
 
 ## Selected work
 
@@ -16,9 +16,9 @@ I co-founded PickupCard and helped take it from zero to the App Store in about a
 
 I'm the first author of research using Sentinel-2 satellite imagery and deep learning to estimate groundwater contamination patterns through vegetation signals. The first version was published in the ISASC 2026 conference proceedings and presented at the conference. An extended version has been submitted to the *Selçuk Journal of Agriculture and Food Sciences*.
 
-### [SleepSense](https://github.com/raj-chinagundi/treehacks-26)
+### [SleepSense](https://devpost.com/software/sleepsense-h52ma3)
 
-Built at Stanford TreeHacks 2026. Our team created an EMG-based wearable and web platform for detecting nighttime jaw clenching. I worked on the frontend and helped shape the product and business direction.
+Built at Stanford TreeHacks 2026. Our team created an EMG-based wearable and web platform for detecting nighttime jaw clenching. I worked on the frontend and helped shape the product and business direction. [View the code](https://github.com/raj-chinagundi/treehacks-26).
 
 ### [JP Pro Services](https://github.com/JPProServices/jp-pro-services-llc-site)
 
@@ -30,7 +30,7 @@ A private iOS project I started while learning native Apple development, built w
 
 ## Other work
 
-I previously co-founded WAVE, a college-events startup, working across product, frontend, and growth. Raised pre-seed.
+I previously co-founded WAVE, a college-events startup, working across product, frontend, and growth.
 
 I also contributed to [AI News](https://github.com/tunakurucu/ai-news-system) and [Made3D](https://github.com/tunakurucu/Made3D), originally created by [mithdreamer](https://github.com/mithdreamer), working on API integrations, AI features, testing, reliability, and frontend redesigns.
 
@@ -40,4 +40,4 @@ Python · TypeScript · JavaScript · Swift · Java · React · Next.js · Vue �
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/tunakurucu/) · [PickupCard](https://pickupcard.app/)
+[Email](mailto:kurucutuna@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tunakurucu/) · [PickupCard](https://pickupcard.app/)
